@@ -4,7 +4,7 @@ what:
   - holders_summary
   - authors
 copyrights:
-  - Copyright 2005 MyCompanyName
+  - Copyright 2005 MyCompanyName . All rights reserved.
 holders:
   - MyCompanyName
 holders_summary:

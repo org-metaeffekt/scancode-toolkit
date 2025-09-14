@@ -3,7 +3,7 @@ what:
   - holders
   - holders_summary
 copyrights:
-  - Copyright (c) 1998-2000 The OpenSSL Project
+  - Copyright (c) 1998-2000 The OpenSSL Project. All rights reserved.
 holders:
   - The OpenSSL Project
 holders_summary:

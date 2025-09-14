@@ -3,8 +3,8 @@ what:
   - holders
   - holders_summary
 copyrights:
-  - Copyright (c) 2006 Joe Walnes
-  - Copyright (c) 2006, 2007, 2008 XStream committers
+  - Copyright (c) 2006 Joe Walnes.
+  - Copyright (c) 2006, 2007, 2008 XStream committers. All rights reserved.
 holders:
   - Joe Walnes
   - XStream committers
