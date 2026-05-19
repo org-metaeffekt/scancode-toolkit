@@ -3,8 +3,8 @@ what:
   - holders
   - holders_summary
 copyrights:
-  - Copyright (c) 1995-1997 Eric Young (eay@mincom.oz.au)
-  - holder is Tim Hudson (tjh@mincom.oz.au)
+  - Copyright (c) 1995-1997 Eric Young (eay@mincom.oz.au) All rights reserved.
+  - holder is Tim Hudson (tjh@mincom.oz.au).
 holders:
   - Eric Young
   - Tim Hudson
