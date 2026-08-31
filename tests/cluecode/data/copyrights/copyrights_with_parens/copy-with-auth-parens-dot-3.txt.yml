@@ -3,6 +3,6 @@ what:
   - holders
   - authors
 copyrights:
-  - Copyright 2009 The Go Authors
+  - Copyright 2009 The Go Authors. All rights reserved.
 holders:
   - The Go Authors
