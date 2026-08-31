@@ -3,9 +3,8 @@ what:
   - holders
   - holders_summary
 copyrights:
-  - Copyright 2002 Jonas Borgstrom <jonas@codefactory.se> 2002 Daniel Lundin <daniel@codefactory.se>
-    2002 CodeFactory AB.
-  - Copyright (c) 1994 The Regents of the University of California
+  - Copyright 2002 Jonas Borgstrom <jonas@codefactory.se> 2002 Daniel Lundin <daniel@codefactory.se> 2002 CodeFactory AB. All rights reserved.
+  - Copyright (c) 1994 The Regents of the University of California. All rights reserved.
 holders:
   - Jonas Borgstrom Daniel Lundin CodeFactory AB.
   - The Regents of the University of California

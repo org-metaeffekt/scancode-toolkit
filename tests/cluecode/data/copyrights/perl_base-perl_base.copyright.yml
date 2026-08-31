@@ -3,15 +3,15 @@ what:
   - holders
   - holders_summary
 copyrights:
-  - Copyright 1989-2001, Larry Wall
+  - Copyright 1989-2001, Larry Wall All rights reserved.
   - Copyright (c) 1995-2005 Jean-loup Gailly and Mark Adler
   - Copyright (c) 1991-2006 Unicode, Inc.
-  - Copyright (c) 1991-2008 Unicode, Inc.
-  - Copyright (c) 2004 by the Perl 5 Porters
-  - copyright (c) 1994 by the Regents of the University of California
-  - Copyright (c) 1994 The Regents of the University of California
-  - Copyright (c) 1989, 1993 The Regents of the University of California
-  - copyright (c) 1996-2007 Julian R Seward
+  - Copyright (c) 1991-2008 Unicode, Inc. All rights reserved.
+  - Copyright (c) 2004 by the Perl 5 Porters. All rights reserved.
+  - copyright (c) 1994 by the Regents of the University of California. All rights reserved.
+  - Copyright (c) 1994 The Regents of the University of California. All rights reserved.
+  - Copyright (c) 1989, 1993 The Regents of the University of California. All rights reserved.
+  - copyright (c) 1996-2007 Julian R Seward. All rights reserved.
 holders:
   - Larry Wall
   - Jean-loup Gailly and Mark Adler

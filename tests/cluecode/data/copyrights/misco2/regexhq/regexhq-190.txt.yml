@@ -3,6 +3,6 @@ what:
   - holders
   - authors
 copyrights:
-  - Copyright 2011 The Closure Compiler Authors
+  - Copyright 2011 The Closure Compiler Authors. All rights reserved.
 holders:
   - The Closure Compiler Authors

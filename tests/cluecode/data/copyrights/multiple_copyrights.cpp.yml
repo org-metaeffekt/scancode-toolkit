@@ -2,9 +2,9 @@ what:
   - copyrights
   - holders
 copyrights:
-  - Copyright (c) Microsoft
-  - Copyright (c) 2000-2001 Alias Ltd.
-  - Copyright (c) Microsoft
+  - Copyright (c) Microsoft. All rights reserved.
+  - Copyright (c) 2000-2001 Alias Ltd. All rights reserved.
+  - Copyright (c) Microsoft.
 holders:
   - Microsoft
   - Alias Ltd.

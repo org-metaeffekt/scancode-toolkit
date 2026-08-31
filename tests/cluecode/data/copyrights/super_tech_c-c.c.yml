@@ -3,7 +3,7 @@ what:
   - holders
   - holders_summary
 copyrights:
-  - Copyright (c) $LastChangedDate$ Super Technologies Corporation, Cedar Rapids, Iowa, U.S.A.
+  - Copyright (c) $LastChangedDate$ Super Technologies Corporation, Cedar Rapids, Iowa, U.S.A. ALL RIGHTS RESERVED
   - Copyright (c) 2004 Benjamin Herrenschmuidt (benh@kernel.crashing.org), IBM Corp.
 holders:
   - Super Technologies Corporation, Cedar Rapids, Iowa, U.S.A.

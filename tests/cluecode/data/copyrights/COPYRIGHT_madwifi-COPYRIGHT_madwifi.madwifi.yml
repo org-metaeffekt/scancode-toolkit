@@ -3,7 +3,7 @@ what:
   - holders
   - holders_summary
 copyrights:
-  - Copyright (c) 2002-2006 Sam Leffler, Errno Consulting, Atheros Communications, Inc.
+  - Copyright (c) 2002-2006 Sam Leffler, Errno Consulting, Atheros Communications, Inc. All rights reserved.
 holders:
   - Sam Leffler, Errno Consulting, Atheros Communications, Inc.
 holders_summary:

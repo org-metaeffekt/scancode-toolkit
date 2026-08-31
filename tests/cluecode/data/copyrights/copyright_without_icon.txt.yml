@@ -4,7 +4,7 @@ what:
   - copyrights_summary
   - holders_summary
 copyrights:
-  - Copyright Foobar Pvt. Ltd
+  - Copyright Foobar Pvt. Ltd.. All rights reserved.
 holders:
   - Foobar Pvt. Ltd
 holders_summary:
